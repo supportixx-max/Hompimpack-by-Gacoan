@@ -1,0 +1,70 @@
+<svg width="1080" height="1920" viewBox="0 0 1080 1920" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g clip-path="url(#clip0_1_2)">
+<rect width="1080" height="1920" fill="white"></rect>
+<rect width="1080" height="1920" fill="url(#pattern0_1_2)"></rect>
+<rect x="68" y="81" width="275" height="101.5" fill="url(#pattern1_1_2)"></rect>
+<rect x="720" y="81" width="274.5" height="97.5" fill="url(#pattern2_1_2)"></rect>
+<rect x="243" y="1364" width="594" height="580" fill="url(#pattern3_1_2)"></rect>
+<rect x="606" y="1388" width="278" height="123" fill="url(#pattern4_1_2)"></rect>
+<rect x="540" y="1269" width="278" height="123" fill="url(#pattern5_1_2)"></rect>
+<rect x="401" y="376" width="278" height="123" fill="url(#pattern6_1_2)"></rect>
+<rect x="465" width="151" height="376" fill="url(#pattern7_1_2)"></rect>
+<rect x="857" y="112" width="20" height="36" fill="url(#pattern8_1_2)"></rect>
+<rect x="882" y="112" width="27" height="36" fill="url(#pattern9_1_2)"></rect>
+<rect x="914" y="112" width="27" height="36" fill="url(#pattern10_1_2)"></rect>
+<rect x="224" y="112" width="20" height="36" fill="url(#pattern11_1_2)"></rect>
+<rect x="249" y="112" width="27" height="36" fill="url(#pattern12_1_2)"></rect>
+</g>
+<defs>
+<pattern id="pattern0_1_2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_1_2" transform="scale(0.000925926 0.000520833)"></use>
+</pattern>
+<pattern id="pattern1_1_2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_1_2" transform="scale(0.00181818 0.00492611)"></use>
+</pattern>
+<pattern id="pattern2_1_2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image2_1_2" transform="scale(0.00182149 0.00512821)"></use>
+</pattern>
+<pattern id="pattern3_1_2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3_1_2" transform="scale(0.000925926 0.000948276)"></use>
+</pattern>
+<pattern id="pattern4_1_2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4_1_2" transform="matrix(0.000960615 0 0 0.00217115 0 -0.000449068)"></use>
+</pattern>
+<pattern id="pattern5_1_2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4_1_2" transform="matrix(0.000960615 0 0 0.00217115 0 -0.000449068)"></use>
+</pattern>
+<pattern id="pattern6_1_2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4_1_2" transform="matrix(0.000960615 0 0 0.00217115 0 -0.000449068)"></use>
+</pattern>
+<pattern id="pattern7_1_2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image5_1_2" transform="matrix(0.00471698 0 0 0.00189432 0 -0.00104752)"></use>
+</pattern>
+<pattern id="pattern8_1_2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image6_1_2" transform="scale(0.00606061 0.003367)"></use>
+</pattern>
+<pattern id="pattern9_1_2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image7_1_2" transform="matrix(0.00448934 0 0 0.003367 -0.00505051 0)"></use>
+</pattern>
+<pattern id="pattern10_1_2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image7_1_2" transform="matrix(0.00448934 0 0 0.003367 -0.00505051 0)"></use>
+</pattern>
+<pattern id="pattern11_1_2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image6_1_2" transform="scale(0.00606061 0.003367)"></use>
+</pattern>
+<pattern id="pattern12_1_2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image7_1_2" transform="matrix(0.00448934 0 0 0.003367 -0.00505051 0)"></use>
+</pattern>
+<clipPath id="clip0_1_2">
+<rect width="1080" height="1920" fill="white"></rect>
+</clipPath>
+<image id="image0_1_2" width="1080" height="1920" preserveAspectRatio="none"></image>
+<image id="image1_1_2" width="550" height="203" preserveAspectRatio="none"></image>
+<image id="image2_1_2" width="549" height="195" preserveAspectRatio="none"></image>
+<image id="image3_1_2" width="1080" height="1055" preserveAspectRatio="none"></image>
+<image id="image4_1_2" width="1041" height="461" preserveAspectRatio="none"></image>
+<image id="image5_1_2" width="212" height="529" preserveAspectRatio="none"></image>
+<image id="image6_1_2" width="165" height="297" preserveAspectRatio="none"></image>
+<image id="image7_1_2" width="225" height="297" preserveAspectRatio="none"></image>
+</defs>
+</svg>
